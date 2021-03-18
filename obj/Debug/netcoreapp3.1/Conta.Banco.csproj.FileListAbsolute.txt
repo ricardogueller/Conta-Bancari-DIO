@@ -1,0 +1,13 @@
+C:\Cona Bancária\Conta.Banco\obj\Debug\netcoreapp3.1\Conta.Banco.csprojAssemblyReference.cache
+C:\Cona Bancária\Conta.Banco\obj\Debug\netcoreapp3.1\Conta.Banco.AssemblyInfoInputs.cache
+C:\Cona Bancária\Conta.Banco\obj\Debug\netcoreapp3.1\Conta.Banco.AssemblyInfo.cs
+C:\Cona Bancária\Conta.Banco\obj\Debug\netcoreapp3.1\Conta.Banco.csproj.CoreCompileInputs.cache
+C:\Cona Bancária\Conta.Banco\bin\Debug\netcoreapp3.1\Conta.Banco.exe
+C:\Cona Bancária\Conta.Banco\bin\Debug\netcoreapp3.1\Conta.Banco.deps.json
+C:\Cona Bancária\Conta.Banco\bin\Debug\netcoreapp3.1\Conta.Banco.runtimeconfig.json
+C:\Cona Bancária\Conta.Banco\bin\Debug\netcoreapp3.1\Conta.Banco.runtimeconfig.dev.json
+C:\Cona Bancária\Conta.Banco\bin\Debug\netcoreapp3.1\Conta.Banco.dll
+C:\Cona Bancária\Conta.Banco\bin\Debug\netcoreapp3.1\Conta.Banco.pdb
+C:\Cona Bancária\Conta.Banco\obj\Debug\netcoreapp3.1\Conta.Banco.dll
+C:\Cona Bancária\Conta.Banco\obj\Debug\netcoreapp3.1\Conta.Banco.pdb
+C:\Cona Bancária\Conta.Banco\obj\Debug\netcoreapp3.1\Conta.Banco.genruntimeconfig.cache
